@@ -21,4 +21,5 @@ func main(){
 
 	f1, _ = strconv.ParseFloat(str3,64)
 	fmt.Printf("f1 type %T f1 = %v", f1, f1)
+	
 }
